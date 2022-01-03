@@ -1,2 +1,2 @@
-# Pol-tica-Leitor-Escritor
-Gerenciamento de Threads 
+# Politica Leitor/Escritor
+Gerenciamento de Threads
